@@ -1,9 +1,9 @@
 {
   "name": "xenious-cordova-plugin-datepicker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cordova DatePicker Plugin",
   "cordova": {
-    "id": "cordova-plugin-datepicker",
+    "id": "xenious-cordova-plugin-datepicker",
     "platforms": [
       "ios",
       "android",
